@@ -1,0 +1,1 @@
+<SNIP: full file from workspace, sanitized of local absolute paths>

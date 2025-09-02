@@ -1,0 +1,10 @@
+faiss-cpu>=1.7.4
+numpy>=1.24
+pyyaml>=6.0.1
+sentence-transformers>=2.2.2
+torch>=2.0.0; platform_system!="Windows" or platform_machine!="ARM64"
+llama-cpp-python>=0.2.74
+scikit-learn>=1.2
+transformers>=4.41
+accelerate>=0.31
+flask>=3.0  # optional for UI

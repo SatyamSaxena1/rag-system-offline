@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Envs
+.venv/
+.env
+
+# VSCode
+.vscode/
+
+# Data/artifacts (keep empty dirs via .gitkeep when needed)
+data/
+!data/.gitkeep
+data/**
+!data/.gitkeep
+logs/
+*.log
+
+# Caches
+.cache/
+**/.cache/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
